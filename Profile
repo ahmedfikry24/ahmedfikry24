@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfikry24&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfikry24" /> </p>
 
-- 🔭 I’m currently working on [A Learning App](Private)
+- 🔭 I’m currently working on Freelancing
 
 - 🌱 I’m currently learning **Android Native & Flutter**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmedfikryelshimi](https://www.linkedin.com/in/ahmedfikryelshimi)
 
-- 💬 Ask me about anything related to **Java, Kotlin and Flutter**
+- 💬 Ask me about anything related to **Android Native ,Jetpack compose ,KMP ,CMP and Flutter**
 
 - 📫 How to reach me **ahmedfikryelshimi24@gmail.com**
 
