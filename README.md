@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fikry Elshimi</h1>
-<h3 align="center">A Native Android developer</h3>
+<h3 align="center">A Mobile App developer (Android Native | Jetpack Compose | KMP | CMP | Flutter)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfikry24&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfikry24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedfikry24" alt="ahmedfikry24" /></a> </p>
 
-- 🔭 I’m currently working on **A Learning**
+- 🔭 I’m currently working with **Mechatronics for Research and Development**
 
 - 👯 I’m collaborate on **GDSC**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmedfikryelshimi](https://www.linkedin.com/in/ahmedfikryelshimi)
 
-- 💬 Ask me about **XML,Jetpack compose and Flutter**
+- 💬 Ask me about **XML,Jetpack compose, KMP, CMP and Flutter**
 
 - 📫 How to reach me **ahmedfikryelshimi24@gmail.com**
 
